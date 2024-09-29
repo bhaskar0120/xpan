@@ -1,0 +1,6 @@
+logical_function_list = "?"
+last = "last"
+ans = "ans"
+times = "iter"
+user_var_list = "user_defined"
+statement = "statement"

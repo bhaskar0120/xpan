@@ -1,0 +1,6 @@
+welcome_message = "X-PAN version 0.1.0: Bhardwaj Bhaskar (2024)\nAll rights reserved."
+terminal_prompt = ">> "
+var_prefix = "."
+chain_separator = ";"
+true = "true"
+false = "false"
